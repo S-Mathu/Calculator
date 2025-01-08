@@ -25,3 +25,4 @@ function calculateResult() {
         display.value = "Error"; // Handle invalid input
     }
 }
+//finally finished.
